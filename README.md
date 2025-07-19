@@ -1,5 +1,5 @@
 # Container-Image-Security-HPC
-Our dataset contains 4784 container images used in HPC, that includes 3,061 HPC Infrastructure Images and 1,723 HPC Application Images
+Our dataset contains 4,784 container images used in HPC, that includes 3,061 HPC Infrastructure Images and 1,723 HPC Application Images
 
 -------------------------------------------------------------------------------------------------------------------
         |          HPC Infrastructure Images           |      HPC Application images   | Total
